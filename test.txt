@@ -3,4 +3,4 @@ master changed (2)
 
 hello
 
-branch test_br
+master changed
